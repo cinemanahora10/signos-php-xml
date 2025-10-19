@@ -1,0 +1,35 @@
+/*
+    Este CSS customiza a página além do Bootstrap.
+*/
+
+body {
+    /* 1. Cria um fundo com gradiente linear suave */
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+    
+    /* 2. Garante que o corpo ocupe pelo menos 100% da altura da tela,
+       permitindo a centralização vertical.
+    */
+    min-height: 100vh;
+
+    /* 3. Usa Flexbox para centralizar o conteúdo.
+       Isso complementa o "justify-content-center" do Bootstrap (centralização horizontal)
+       adicionando a centralização vertical (align-items: center).
+    */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 4. Adiciona um pouco mais de destaque ao card principal
+    do que o shadow-sm padrão do Bootstrap.
+*/
+.card {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* 5. Aumenta um pouco a fonte do título principal.
+*/
+h1 {
+    font-size: 2.25rem;
+    font-weight: 300;
+}

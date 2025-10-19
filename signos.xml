@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Signo de fogo, Áries é conhecido por sua energia, impulsividade e 
+        pioneirismo. São líderes natos, corajosos e diretos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Signo de terra, Touro valoriza a estabilidade, o conforto e a segurança. 
+        São pacientes, persistentes e apreciam as coisas boas da vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Signo de ar, Gêmeos é marcado pela sua curiosidade, adaptabilidade e 
+        inteligência. São comunicativos, versáteis e estão sempre em busca de novas 
+        informações.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Signo de água, Câncer é conhecido por sua sensibilidade, intuição e 
+        forte ligação com a família e o lar. São protetores e emocionais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Signo de fogo, Leão é regido pelo sol e conhecido por seu carisma, 
+        generosidade e necessidade de ser o centro das atenções. 
+        São criativos e confiantes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Signo de terra, Virgem é detalhista, analítico e prático. Buscam a 
+        perfeição em tudo que fazem e são muito organizados e prestativos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Signo de ar, Libra busca o equilíbrio, a justiça e a harmonia em 
+        seus relacionamentos. São diplomáticos, sociáveis e apreciam a beleza.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Signo de água, Escorpião é intenso, magnético e profundo. 
+        São determinados, passionais e possuem uma forte intuição e capacidade de 
+        transformação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Signo de fogo, Sagitário é aventureiro, otimista e busca por 
+        conhecimento e liberdade. São honestos, joviais e amam viajar e explorar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Signo de terra, Capricórnio é ambicioso, responsável e disciplinado. 
+        São persistentes e buscam construir uma base sólida para o futuro.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Signo de ar, Aquário é conhecido por sua originalidade, independência 
+        e pensamento humanitário. São inovadores, intelectuais e valorizam a amizade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Signo de água, Peixes é sonhador, empático e intuitivo. Têm uma forte
+         conexão com o mundo emocional e artístico, e são muito compassivos.</descricao>
+    </signo>
+</signos>
